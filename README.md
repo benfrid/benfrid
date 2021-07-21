@@ -2,7 +2,7 @@
 
 I am Data Scientist / Data storyteller / Researcher / Software Design Engineer with 5 years of experience combined. I have been working in various domains, starting from industrial automation, automotive, multimedia, and semiconductors. I have my engineering background in Electronics and Communication, with my Masters in Computer Science specialized in Artificial Intelligence. 
 
-![Profile Views](https://visitor-badge.glitch.me/badge?page_id=benfrid.benfrid)
+![visitors](https://visitor-badge.glitch.me/badge?page_id=benfrid.benfrid)
 
 
 <!--
