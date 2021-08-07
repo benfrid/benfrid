@@ -3,7 +3,7 @@
 I am Data Scientist / Data storyteller / Researcher / Software Design Engineer with 5 years of experience combined. I have been working in various domains, starting from industrial automation, automotive, multimedia, and semiconductors. I have my engineering background in Electronics and Communication, with a Masters in Computer Science specialized in Artificial Intelligence. 
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=benfrid.benfrid)
-
+[![Linkedin: imthepk](https://img.shields.io/badge/-benfridolin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/benfridolin)](https://www.linkedin.com/in/benfridolin)
 
 <!--
 **benfrid/benfrid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
