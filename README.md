@@ -5,6 +5,7 @@ I am Data Scientist / Data storyteller / Researcher / Software Design Engineer w
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=benfrid.benfrid)
 [![Linkedin: imthepk](https://img.shields.io/badge/-benfridolin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/benfridolin)](https://www.linkedin.com/in/benfridolin)
 [![GitHub benfrid](https://img.shields.io/github/followers/benfrid?label=follow&style=social)](https://github.com/benfrid)
+[![Twitter: benfridolin](https://img.shields.io/twitter/follow/BenFridolin?style=social)](https://twitter.com/BenFridolin)
 
 <!--
 **benfrid/benfrid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
