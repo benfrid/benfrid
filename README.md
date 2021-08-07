@@ -7,10 +7,12 @@ I am Data Scientist / Data storyteller / Researcher / Software Design Engineer w
 [<img align="left" alt="BenFridolin | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="BenFridolin | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
+
+### Languages and Tools:
+
+[<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />]
+
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=benfrid.benfrid)
-[![Linkedin: benfridolin](https://img.shields.io/badge/-benfridolin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/benfridolin)](https://www.linkedin.com/in/benfridolin)
-[![GitHub benfrid](https://img.shields.io/github/followers/benfrid?label=follow&style=social)](https://github.com/benfrid)
-[![Twitter: benfridolin](https://img.shields.io/twitter/follow/BenFridolin?style=social)](https://twitter.com/BenFridolin)
 
 
 <!--
