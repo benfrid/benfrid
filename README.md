@@ -45,5 +45,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[twitter]: https://twitter.com/BenFridolin
+[twitter]: https://x.com/BenFridolin
 [linkedin]: https://www.linkedin.com/in/benfridolin
