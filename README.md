@@ -3,8 +3,7 @@
 I am a Senior Data Scientist / Product Owner/ Researcher / Software Design Engineer with 8+ years of experience combined. I have been gathering experience in several domains, including finance, corporate strategy, automotive, and semiconductors. I have my engineering background in Electronics and Communication, with a Masters in Computer Science specialized in Artificial Intelligence.
 
 ### Connect with me:
-[<img align="left" alt="BenFridolin | Twitter" width="22px" src="[https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg](https://img.shields.io/twitter/url?url=https%3A%2F%2Fimg.shields.io%2Ftwitter%2Furl%3Furl%3Dimage%253Ahttps%253A%252F%252Fimg.shields.io%252Ftwitter%252Furl%253Furl%253Dhttps%25253A%25252F%25252Fimg.shields.io%25252Ftwitter%25252Furl%25253Furl%25253D%2525253Cimg%25252520alt%2525253D%25252522X%25252520(formerly%25252520Twitter)%25252520URL%25252522%25252520src%2525253D%25252522https%2525253A%2525252F%2525252Fimg.shields.io%2525252Ftwitter%2525252Furl%25252522%2525253E%255BX%2520(formerly%2520Twitter)%2520URL%255D
-)" />][twitter]
+[<img align="left" alt="BenFridolin | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="BenFridolin | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 <br />
