@@ -4,7 +4,8 @@ I am a Senior Data Scientist / Product Owner/ Researcher / Software Design Engin
 
 ### Connect with me:
 
-[<img align="left" alt="BenFridolin | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[[<img align="left" alt="BenFridolin | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />](https://img.shields.io/twitter/url?url=image%3Ahttps%3A%2F%2Fimg.shields.io%2Ftwitter%2Furl%3Furl%3Dhttps%253A%252F%252Fimg.shields.io%252Ftwitter%252Furl%253Furl%253D%25253Cimg%252520alt%25253D%252522X%252520(formerly%252520Twitter)%252520URL%252522%252520src%25253D%252522https%25253A%25252F%25252Fimg.shields.io%25252Ftwitter%25252Furl%252522%25253E%5BX%20(formerly%20Twitter)%20URL%5D
+)][twitter]
 [<img align="left" alt="BenFridolin | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 <br />
