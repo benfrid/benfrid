@@ -4,7 +4,7 @@ I am a Senior Data Scientist / Product Owner/ Researcher / Software Design Engin
 
 ### Connect with me:
 [<img align="left" alt="BenFridolin | Twitter" width="70px" src="https://img.shields.io/twitter/url?url=https%3A%2F%2Fimg.shields.io%2Ftwitter%2Furl&logoSize=auto" />][twitter]
-[<img align="left" alt="BenFridolin | LinkedIn" width="70px" src="https://img.shields.io/badge/LinkedIn-blue" />][linkedin]
+[<img align="left" alt="BenFridolin | LinkedIn" width="68px" src="https://img.shields.io/badge/LinkedIn-blue" />][linkedin]
 
 <br />
 
