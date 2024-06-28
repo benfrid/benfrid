@@ -1,6 +1,6 @@
 ### Hi I'm Ben 👋
 
-I am a Senior Data Scientist / Product Owner/ Researcher / Software Design Engineer with 8+ years of experience combined. I have been gathering experience in several domains, including finance, corporate strategy, automotive, and semiconductors. I have my engineering background in Electronics and Communication, with a Masters in Computer Science specialized in Artificial Intelligence.
+I am a Senior Data Scientist / Product Owner/ Researcher / Software Design Engineer with 8+ years of experience combined. I have been gathering experience in several domains, including finance, corporate strategy, automotive, and semiconductors. I have my engineering background in Electronics and Communication, with a Masters in Computer Science specialized in Artificial Intelligence
 
 ### Connect with me:
 [<img align="left" alt="BenFridolin | Twitter" width="70px" src="https://img.shields.io/twitter/url?url=https%3A%2F%2Fimg.shields.io%2Ftwitter%2Furl&logoSize=auto" />][twitter]
